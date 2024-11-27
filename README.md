@@ -84,10 +84,10 @@ I’m always striving to expand my knowledge and learn the latest in web develop
 
 I love connecting with other developers, designers, and tech enthusiasts! Reach out to me via:
 
-- **Email**: [sohagdey@example.com](mailto:sohagdey@example.com)
-- **LinkedIn**: [sohag-dey](https://www.linkedin.com/in/sohag-dey)
-- **Twitter**: [@sohagdev](https://twitter.com/sohagdev)
-- **Website**: [sohagdey.com](https://sohagdey.com)
+- **Email**: [sohagdey.designer@gmail.com](mailto:sohagdey.designer@gmail.com)
+- **LinkedIn**: 
+- **Twitter**: [@sohagdev]
+- **Website**: [sohagdey.com]
 
 ---
 
