@@ -74,8 +74,7 @@ Here’s a quick look at my development journey and achievements:
 ## 🔥 **Currently Learning** 🔥  
 I’m always striving to expand my knowledge and learn the latest in web development:
 
-- **Next.js** for server-side rendering and static site generation.
-- **TypeScript** for building robust, scalable applications.
+- **Javascript** for build everything from simple websites to complex web apps, mobile apps, and beyond.
 
 ---
 
