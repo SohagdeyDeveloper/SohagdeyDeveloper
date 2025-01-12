@@ -1,4 +1,4 @@
-# 💻 **Sohag Dey** - Frontend Developer & Designer 🎨
+# 💻 **Sohag Dey** - Frontend Developer 🎨
 
 **Welcome to my GitHub Profile!**  
 I'm **Sohag Dey**, a passionate **Frontend Developer** & **Designer** from **Kolkata, India**. I love building sleek, modern, and responsive web applications. I specialize in creating user-friendly interfaces and seamless user experiences with a keen eye for detail and design. I am always excited to learn new technologies and build amazing things!
@@ -11,9 +11,8 @@ I'm **Sohag Dey**, a passionate **Frontend Developer** & **Designer** from **Kol
 These are the technologies I use to bring designs to life:
 
 - **HTML5** & **CSS3** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- - **JQUERY** ![Jquery](https://images.credly.com/images/a699a8c9-354e-4404-b00c-fd3ebdc4289b/jquery-badge.png)
 - **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **ReactJS** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-- **Next.js** (Currently Learning) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 - **Bootstrap** ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 - **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
@@ -28,7 +27,7 @@ Essential for my daily development workflow:
 
 - **Git & GitHub** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 - **VS Code** ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-- **Postman** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 
 ---
 
