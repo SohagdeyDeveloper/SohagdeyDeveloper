@@ -11,7 +11,7 @@ I'm **Sohag Dey**, a passionate **Frontend Developer** & **Designer** from **Kol
 These are the technologies I use to bring designs to life:
 
 - **HTML5** & **CSS3** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- - **JQUERY** ![Jquery](https://images.credly.com/images/a699a8c9-354e-4404-b00c-fd3ebdc4289b/jquery-badge.png)
+- - **JQUERY** ![Jquery](https://img.shields.io/badge/jQuery-3.6.0-blue.svg)
 - **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **Bootstrap** ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 - **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
